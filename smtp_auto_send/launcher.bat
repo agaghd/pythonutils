@@ -1,0 +1,1 @@
+python c:\demo\smtp_auto.py
